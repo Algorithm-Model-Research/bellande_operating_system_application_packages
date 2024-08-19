@@ -1,3 +1,3 @@
 # Bellande Operating System Package
 
-## BellandeOS
+## BellandeOS Package
